@@ -21,3 +21,13 @@ What can we learn about different hosts and areas?
 What can we learn from predictions? (ex: locations, prices, reviews, etc)
 Which hosts are the busiest and why?
 Is there any noticeable difference of traffic among different areas and what could be the reason for it?
+
+Source:
+Url - https://www.kaggle.com/samyukthamurali/airbnb-ratings-dataset
+Author - Samyuktha Murali
+Publisher - Kaggle
+Data - NY_Listings.csv
+Licesne - Public Domain
+Last Updated - 2020-05-06
+Date Created - 2020-04-03
+Version Number - 11
