@@ -16,13 +16,13 @@ Airbnb is an online vacation rental marketplace that that took its company publi
 
 Our project seeks to use listing data for Airbnb properties in NYC in 2019, as found on 'NY_Listings.csv' from https://www.kaggle.com/samyukthamurali/airbnb-ratings-dataset. We aim to determine what characteristics make for the best Airbnb listing to help future hosts optimize where and how they list they properties.
 
-Ideas:
+Ideas:<br>
 What can we learn about different hosts and areas?<br>
 What can we learn from predictions? (ex: locations, prices, reviews, etc)<br>
 Which hosts are the busiest and why?<br>
 Is there any noticeable difference of traffic among different areas and what could be the reason for it?
 
-Source:
+Source:<br>
 Url - https://www.kaggle.com/samyukthamurali/airbnb-ratings-dataset<br>
 Author - Samyuktha Murali<br>
 Publisher - Kaggle<br>
